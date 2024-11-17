@@ -18,8 +18,8 @@ templates = []
 for row in csv_reader:
     template = {
         "type": 1,
-        "name": row["gamename"],
-        "title": row["gameservername"],
+        "name": row["gameservername"],
+        "title": row["gamename"],
         "description": " Dockerized game server by LinuxGSM ",
         "logo": f"https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/{row['shortname']}-icon.png?raw=true",
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
