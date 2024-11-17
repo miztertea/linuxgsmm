@@ -13,10 +13,13 @@
       "platform": "linux",
       "restart_policy": "unless-stopped",
       "ports": [
-        "27015:27015/tcp",
-        "27015:27015/udp",
-        "27020:27020/udp",
-        "27005:27005/udp"
+        {
+          "Host Port": ":27015/tcp",
+          "Host Port": ":27015/udp",
+          "Client Port": ":27005/udp",
+          "SourceTV Port": ":27020/udp"
+
+        }
       ],
       "volumes": [
         {
