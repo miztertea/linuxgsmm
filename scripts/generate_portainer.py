@@ -24,7 +24,7 @@ for row in csv_reader:
         "logo": f"https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/{row['shortname']}-icon.png?raw=true",
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
         "restart_policy": "unless-stopped",
-        "network_mode": "host",
+        "network": "host",
         "platform": "linux",
         "categories": [
             "Game Server"
