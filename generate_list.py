@@ -25,7 +25,7 @@ for row in csv_reader:
         "note": (
             "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>"
         ),
-        "categories": "Game Server",
+        "categories": ["Game Server"],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",

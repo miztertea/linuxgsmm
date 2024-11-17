@@ -7,7 +7,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ac-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ac",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -34,7 +36,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -61,7 +65,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -88,7 +94,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ark-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ark",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -115,7 +123,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/arma3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:arma3",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -142,7 +152,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/armar-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:armar",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -169,7 +181,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ats-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ats",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -196,7 +210,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/av-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:av",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -223,7 +239,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -250,7 +268,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -277,7 +297,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bd",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -304,7 +326,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bf1942-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bf1942",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -331,7 +355,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bfv-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bfv",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -358,7 +384,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bmdm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bmdm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -385,7 +413,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bo",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -412,7 +442,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bs",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -439,7 +471,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bt",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -466,7 +500,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/btl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:btl",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -493,7 +529,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -520,7 +558,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ck-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ck",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -547,7 +587,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cmw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cmw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -574,7 +616,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -601,7 +645,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -628,7 +674,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod4",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -655,7 +703,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/coduo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:coduo",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -682,7 +732,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/codwaw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:codwaw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -709,7 +761,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/col-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:col",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -736,7 +790,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -763,7 +819,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -790,7 +848,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cscz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cscz",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -817,7 +877,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/csgo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:csgo",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -844,7 +906,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/css-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:css",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -871,7 +935,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ct-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ct",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -898,7 +964,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dab-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dab",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -925,7 +993,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dayz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dayz",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -952,7 +1022,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dmc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -979,7 +1051,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dod",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1006,7 +1080,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dodr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dodr",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1033,7 +1109,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dods-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dods",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1060,7 +1138,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/doi-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:doi",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1087,7 +1167,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dst-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dst",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1114,7 +1196,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dys-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dys",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1141,7 +1225,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/eco-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:eco",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1168,7 +1254,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/em-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:em",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1195,7 +1283,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/etl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:etl",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1222,7 +1312,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ets2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ets2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1249,7 +1341,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fctr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fctr",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1276,7 +1370,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fof-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fof",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1303,7 +1399,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/gmod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:gmod",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1330,7 +1428,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hcu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hcu",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1357,7 +1457,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hl2dm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hl2dm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1384,7 +1486,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1411,7 +1515,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldms-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldms",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1438,7 +1544,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1465,7 +1573,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hz",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1492,7 +1602,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ins-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ins",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1519,7 +1631,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/inss-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:inss",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1546,7 +1660,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ios-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ios",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1573,7 +1689,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1600,7 +1718,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc3",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1627,7 +1747,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jk2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jk2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1654,7 +1776,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1681,7 +1805,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1708,7 +1834,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1735,7 +1863,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1762,7 +1892,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1789,7 +1921,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mcb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mcb",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1816,7 +1950,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mh",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1843,7 +1979,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mohaa-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mohaa",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1870,7 +2008,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mta-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mta",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1897,7 +2037,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nd",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1924,7 +2066,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nec-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nec",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1951,7 +2095,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nmrih-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nmrih",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -1978,7 +2124,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2005,7 +2153,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2032,7 +2182,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2c-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2c",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2059,7 +2211,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ohd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ohd",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2086,7 +2240,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/onset-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:onset",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2113,7 +2269,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/opfor-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:opfor",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2140,7 +2298,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2167,7 +2327,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2194,7 +2356,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pmc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2221,7 +2385,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ps",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2248,7 +2414,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvkii-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvkii",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2275,7 +2443,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvr",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2302,7 +2472,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2329,7 +2501,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pz",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2356,7 +2530,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2383,7 +2559,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q3",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2410,7 +2588,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q4",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2437,7 +2617,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ql-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ql",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2464,7 +2646,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/qw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:qw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2491,7 +2675,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ricochet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ricochet",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2518,7 +2704,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ro-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ro",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2545,7 +2733,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rtcw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rtcw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2572,7 +2762,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rust-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rust",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2599,7 +2791,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2626,7 +2820,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/samp-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:samp",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2653,7 +2849,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sb",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2680,7 +2878,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sbots-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sbots",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2707,7 +2907,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpsl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpsl",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2734,7 +2936,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpslsm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpslsm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2761,7 +2965,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sdtd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sdtd",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2788,7 +2994,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sf",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2815,7 +3023,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sfc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2842,7 +3052,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2869,7 +3081,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sof2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sof2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2896,7 +3110,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sol-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sol",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2923,7 +3139,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/squad-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:squad",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2950,7 +3168,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/st-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:st",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -2977,7 +3197,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/stn-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:stn",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3004,7 +3226,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sven-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sven",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3031,7 +3255,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/terraria-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:terraria",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3058,7 +3284,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3085,7 +3313,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf2",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3112,7 +3342,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tfc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3139,7 +3371,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ti-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ti",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3166,7 +3400,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3193,7 +3429,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts3",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3220,7 +3458,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tu",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3247,7 +3487,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tw",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3274,7 +3516,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/unt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:unt",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3301,7 +3545,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3328,7 +3574,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut2k4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut2k4",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3355,7 +3603,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut3",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3382,7 +3632,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut99-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut99",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3409,7 +3661,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vh",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3436,7 +3690,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vints-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vints",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3463,7 +3719,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vpmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vpmc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3490,7 +3748,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vs",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3517,7 +3777,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wet",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3544,7 +3806,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wf",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3571,7 +3835,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wmc",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3598,7 +3864,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wurm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wurm",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3625,7 +3893,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/xnt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:xnt",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3652,7 +3922,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zmr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zmr",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
@@ -3679,7 +3951,9 @@
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zps",
         "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
-        "categories": "Game Server",
+        "categories": [
+            "Game Server"
+        ],
         "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
