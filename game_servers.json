@@ -14,8 +14,8 @@
       "restart_policy": "unless-stopped",
       "ports": [
         {
-          "Host Port": ":27015/tcp",
-          "Host Port": ":27015/udp",
+          "Host Port TCP": ":27015/tcp",
+          "Host Port UDP": ":27015/udp",
           "Client Port": ":27005/udp",
           "SourceTV Port": ":27020/udp"
 
