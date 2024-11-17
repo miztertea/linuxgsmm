@@ -1,0 +1,36 @@
+[
+    {
+      "type": 1,
+      "title": "csgo",
+      "name": "csgo",
+      "description": "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter video game where two teams compete to complete objectives.",
+      "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/csgo-icon.png?raw=true",
+      "image": "gameservermanagers/gameserver:csgo",
+      "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+      "categories": [
+        "Game Server"
+      ],
+      "platform": "linux",
+      "restart_policy": "unless-stopped",
+      "ports": [
+        "27015:27015/tcp",
+        "27015:27015/udp",
+        "27020:27020/udp",
+        "27005:27005/udp"
+      ],
+      "volumes": [
+        {
+          "container": "/data",
+          "bind": "csgo"
+        }
+      ],
+      "env": [
+        {
+          "name": "TZ",
+          "label": "TZ",
+          "default": "!TZ",
+          "description": "Specify a timezone to use for example Europe/Amsterdam"
+        }
+      ]
+    }
+  ]
