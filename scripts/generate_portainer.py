@@ -25,6 +25,7 @@ for row in csv_reader:
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
+        "platform": "linux",
         "categories": [
             "Game Server"
         ],

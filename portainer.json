@@ -10,6 +10,7 @@
             "image": "gameservermanagers/gameserver:ac",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -36,6 +37,7 @@
             "image": "gameservermanagers/gameserver:ahl",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -62,6 +64,7 @@
             "image": "gameservermanagers/gameserver:ahl2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -88,6 +91,7 @@
             "image": "gameservermanagers/gameserver:ark",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -114,6 +118,7 @@
             "image": "gameservermanagers/gameserver:arma3",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -140,6 +145,7 @@
             "image": "gameservermanagers/gameserver:armar",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -166,6 +172,7 @@
             "image": "gameservermanagers/gameserver:ats",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -192,6 +199,7 @@
             "image": "gameservermanagers/gameserver:av",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -218,6 +226,7 @@
             "image": "gameservermanagers/gameserver:bb",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -244,6 +253,7 @@
             "image": "gameservermanagers/gameserver:bb2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -270,6 +280,7 @@
             "image": "gameservermanagers/gameserver:bd",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -296,6 +307,7 @@
             "image": "gameservermanagers/gameserver:bf1942",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -322,6 +334,7 @@
             "image": "gameservermanagers/gameserver:bfv",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -348,6 +361,7 @@
             "image": "gameservermanagers/gameserver:bmdm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -374,6 +388,7 @@
             "image": "gameservermanagers/gameserver:bo",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -400,6 +415,7 @@
             "image": "gameservermanagers/gameserver:bs",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -426,6 +442,7 @@
             "image": "gameservermanagers/gameserver:bt",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -452,6 +469,7 @@
             "image": "gameservermanagers/gameserver:btl",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -478,6 +496,7 @@
             "image": "gameservermanagers/gameserver:cc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -504,6 +523,7 @@
             "image": "gameservermanagers/gameserver:ck",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -530,6 +550,7 @@
             "image": "gameservermanagers/gameserver:cmw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -556,6 +577,7 @@
             "image": "gameservermanagers/gameserver:cod",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -582,6 +604,7 @@
             "image": "gameservermanagers/gameserver:cod2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -608,6 +631,7 @@
             "image": "gameservermanagers/gameserver:cod4",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -634,6 +658,7 @@
             "image": "gameservermanagers/gameserver:coduo",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -660,6 +685,7 @@
             "image": "gameservermanagers/gameserver:codwaw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -686,6 +712,7 @@
             "image": "gameservermanagers/gameserver:col",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -712,6 +739,7 @@
             "image": "gameservermanagers/gameserver:cs",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -738,6 +766,7 @@
             "image": "gameservermanagers/gameserver:cs2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -764,6 +793,7 @@
             "image": "gameservermanagers/gameserver:cscz",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -790,6 +820,7 @@
             "image": "gameservermanagers/gameserver:csgo",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -816,6 +847,7 @@
             "image": "gameservermanagers/gameserver:css",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -842,6 +874,7 @@
             "image": "gameservermanagers/gameserver:ct",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -868,6 +901,7 @@
             "image": "gameservermanagers/gameserver:dab",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -894,6 +928,7 @@
             "image": "gameservermanagers/gameserver:dayz",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -920,6 +955,7 @@
             "image": "gameservermanagers/gameserver:dmc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -946,6 +982,7 @@
             "image": "gameservermanagers/gameserver:dod",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -972,6 +1009,7 @@
             "image": "gameservermanagers/gameserver:dodr",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -998,6 +1036,7 @@
             "image": "gameservermanagers/gameserver:dods",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1024,6 +1063,7 @@
             "image": "gameservermanagers/gameserver:doi",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1050,6 +1090,7 @@
             "image": "gameservermanagers/gameserver:dst",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1076,6 +1117,7 @@
             "image": "gameservermanagers/gameserver:dys",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1102,6 +1144,7 @@
             "image": "gameservermanagers/gameserver:eco",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1128,6 +1171,7 @@
             "image": "gameservermanagers/gameserver:em",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1154,6 +1198,7 @@
             "image": "gameservermanagers/gameserver:etl",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1180,6 +1225,7 @@
             "image": "gameservermanagers/gameserver:ets2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1206,6 +1252,7 @@
             "image": "gameservermanagers/gameserver:fctr",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1232,6 +1279,7 @@
             "image": "gameservermanagers/gameserver:fof",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1258,6 +1306,7 @@
             "image": "gameservermanagers/gameserver:gmod",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1284,6 +1333,7 @@
             "image": "gameservermanagers/gameserver:hcu",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1310,6 +1360,7 @@
             "image": "gameservermanagers/gameserver:hl2dm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1336,6 +1387,7 @@
             "image": "gameservermanagers/gameserver:hldm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1362,6 +1414,7 @@
             "image": "gameservermanagers/gameserver:hldms",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1388,6 +1441,7 @@
             "image": "gameservermanagers/gameserver:hw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1414,6 +1468,7 @@
             "image": "gameservermanagers/gameserver:hz",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1440,6 +1495,7 @@
             "image": "gameservermanagers/gameserver:ins",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1466,6 +1522,7 @@
             "image": "gameservermanagers/gameserver:inss",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1492,6 +1549,7 @@
             "image": "gameservermanagers/gameserver:ios",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1518,6 +1576,7 @@
             "image": "gameservermanagers/gameserver:jc2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1544,6 +1603,7 @@
             "image": "gameservermanagers/gameserver:jc3",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1570,6 +1630,7 @@
             "image": "gameservermanagers/gameserver:jk2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1596,6 +1657,7 @@
             "image": "gameservermanagers/gameserver:kf",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1622,6 +1684,7 @@
             "image": "gameservermanagers/gameserver:kf2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1648,6 +1711,7 @@
             "image": "gameservermanagers/gameserver:l4d",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1674,6 +1738,7 @@
             "image": "gameservermanagers/gameserver:l4d2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1700,6 +1765,7 @@
             "image": "gameservermanagers/gameserver:mc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1726,6 +1792,7 @@
             "image": "gameservermanagers/gameserver:mcb",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1752,6 +1819,7 @@
             "image": "gameservermanagers/gameserver:mh",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1778,6 +1846,7 @@
             "image": "gameservermanagers/gameserver:mohaa",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1804,6 +1873,7 @@
             "image": "gameservermanagers/gameserver:mta",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1830,6 +1900,7 @@
             "image": "gameservermanagers/gameserver:nd",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1856,6 +1927,7 @@
             "image": "gameservermanagers/gameserver:nec",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1882,6 +1954,7 @@
             "image": "gameservermanagers/gameserver:nmrih",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1908,6 +1981,7 @@
             "image": "gameservermanagers/gameserver:ns",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1934,6 +2008,7 @@
             "image": "gameservermanagers/gameserver:ns2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1960,6 +2035,7 @@
             "image": "gameservermanagers/gameserver:ns2c",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -1986,6 +2062,7 @@
             "image": "gameservermanagers/gameserver:ohd",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2012,6 +2089,7 @@
             "image": "gameservermanagers/gameserver:onset",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2038,6 +2116,7 @@
             "image": "gameservermanagers/gameserver:opfor",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2064,6 +2143,7 @@
             "image": "gameservermanagers/gameserver:pc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2090,6 +2170,7 @@
             "image": "gameservermanagers/gameserver:pc2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2116,6 +2197,7 @@
             "image": "gameservermanagers/gameserver:pmc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2142,6 +2224,7 @@
             "image": "gameservermanagers/gameserver:ps",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2168,6 +2251,7 @@
             "image": "gameservermanagers/gameserver:pvkii",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2194,6 +2278,7 @@
             "image": "gameservermanagers/gameserver:pvr",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2220,6 +2305,7 @@
             "image": "gameservermanagers/gameserver:pw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2246,6 +2332,7 @@
             "image": "gameservermanagers/gameserver:pz",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2272,6 +2359,7 @@
             "image": "gameservermanagers/gameserver:q2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2298,6 +2386,7 @@
             "image": "gameservermanagers/gameserver:q3",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2324,6 +2413,7 @@
             "image": "gameservermanagers/gameserver:q4",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2350,6 +2440,7 @@
             "image": "gameservermanagers/gameserver:ql",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2376,6 +2467,7 @@
             "image": "gameservermanagers/gameserver:qw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2402,6 +2494,7 @@
             "image": "gameservermanagers/gameserver:ricochet",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2428,6 +2521,7 @@
             "image": "gameservermanagers/gameserver:ro",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2454,6 +2548,7 @@
             "image": "gameservermanagers/gameserver:rtcw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2480,6 +2575,7 @@
             "image": "gameservermanagers/gameserver:rust",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2506,6 +2602,7 @@
             "image": "gameservermanagers/gameserver:rw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2532,6 +2629,7 @@
             "image": "gameservermanagers/gameserver:samp",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2558,6 +2656,7 @@
             "image": "gameservermanagers/gameserver:sb",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2584,6 +2683,7 @@
             "image": "gameservermanagers/gameserver:sbots",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2610,6 +2710,7 @@
             "image": "gameservermanagers/gameserver:scpsl",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2636,6 +2737,7 @@
             "image": "gameservermanagers/gameserver:scpslsm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2662,6 +2764,7 @@
             "image": "gameservermanagers/gameserver:sdtd",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2688,6 +2791,7 @@
             "image": "gameservermanagers/gameserver:sf",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2714,6 +2818,7 @@
             "image": "gameservermanagers/gameserver:sfc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2740,6 +2845,7 @@
             "image": "gameservermanagers/gameserver:sm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2766,6 +2872,7 @@
             "image": "gameservermanagers/gameserver:sof2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2792,6 +2899,7 @@
             "image": "gameservermanagers/gameserver:sol",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2818,6 +2926,7 @@
             "image": "gameservermanagers/gameserver:squad",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2844,6 +2953,7 @@
             "image": "gameservermanagers/gameserver:st",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2870,6 +2980,7 @@
             "image": "gameservermanagers/gameserver:stn",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2896,6 +3007,7 @@
             "image": "gameservermanagers/gameserver:sven",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2922,6 +3034,7 @@
             "image": "gameservermanagers/gameserver:terraria",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2948,6 +3061,7 @@
             "image": "gameservermanagers/gameserver:tf",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -2974,6 +3088,7 @@
             "image": "gameservermanagers/gameserver:tf2",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3000,6 +3115,7 @@
             "image": "gameservermanagers/gameserver:tfc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3026,6 +3142,7 @@
             "image": "gameservermanagers/gameserver:ti",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3052,6 +3169,7 @@
             "image": "gameservermanagers/gameserver:ts",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3078,6 +3196,7 @@
             "image": "gameservermanagers/gameserver:ts3",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3104,6 +3223,7 @@
             "image": "gameservermanagers/gameserver:tu",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3130,6 +3250,7 @@
             "image": "gameservermanagers/gameserver:tw",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3156,6 +3277,7 @@
             "image": "gameservermanagers/gameserver:unt",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3182,6 +3304,7 @@
             "image": "gameservermanagers/gameserver:ut",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3208,6 +3331,7 @@
             "image": "gameservermanagers/gameserver:ut2k4",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3234,6 +3358,7 @@
             "image": "gameservermanagers/gameserver:ut3",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3260,6 +3385,7 @@
             "image": "gameservermanagers/gameserver:ut99",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3286,6 +3412,7 @@
             "image": "gameservermanagers/gameserver:vh",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3312,6 +3439,7 @@
             "image": "gameservermanagers/gameserver:vints",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3338,6 +3466,7 @@
             "image": "gameservermanagers/gameserver:vpmc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3364,6 +3493,7 @@
             "image": "gameservermanagers/gameserver:vs",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3390,6 +3520,7 @@
             "image": "gameservermanagers/gameserver:wet",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3416,6 +3547,7 @@
             "image": "gameservermanagers/gameserver:wf",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3442,6 +3574,7 @@
             "image": "gameservermanagers/gameserver:wmc",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3468,6 +3601,7 @@
             "image": "gameservermanagers/gameserver:wurm",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3494,6 +3628,7 @@
             "image": "gameservermanagers/gameserver:xnt",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3520,6 +3655,7 @@
             "image": "gameservermanagers/gameserver:zmr",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
@@ -3546,6 +3682,7 @@
             "image": "gameservermanagers/gameserver:zps",
             "restart_policy": "unless-stopped",
             "network_mode": "host",
+            "platform": "linux",
             "categories": [
                 "Game Server"
             ],
