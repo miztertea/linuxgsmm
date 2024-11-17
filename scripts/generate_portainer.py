@@ -1,6 +1,7 @@
 import csv
 import requests
 import json
+import os
 
 # Define the URL of the CSV file
 csv_url = "https://raw.githubusercontent.com/GameServerManagers/LinuxGSM/refs/heads/master/lgsm/data/serverlist.csv"
@@ -12,43 +13,46 @@ response.raise_for_status()  # Ensure the request was successful
 # Parse the CSV content
 csv_reader = csv.DictReader(response.text.splitlines())
 
-# Transform the CSV rows into JSON format
-json_data = []
+# Transform the CSV rows into Portainer JSON format
+templates = []
 for row in csv_reader:
-    json_element = {
+    template = {
         "type": 1,
-        "title": row["gamename"],
-        "name": row["gameservername"],
-        "description": "Lorem Ipsum.",
+        "name": row["gamename"],
+        "title": row["gameservername"],
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": f"https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/{row['shortname']}-icon.png?raw=true",
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
-        "note": (
-            "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>"
-        ),
-        "categories": ["Game Server"],
-        "platform": "linux",
         "restart_policy": "unless-stopped",
         "network_mode": "host",
+        "categories": [
+            "Game Server"
+        ],
         "volumes": [
             {
                 "container": "/data",
                 "bind": row["gameservername"]
             }
         ],
-        "env": [
+        "labels": [
             {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
+                "name": "Owner",
+                "value": "LinuxGSMM"
             }
-        ]
+        ],
+        "maintainer": " https://github.com/miztertea/linuxgsmm/"
     }
-    json_data.append(json_element)
+    templates.append(template)
 
-# Save the transformed data to a JSON file
-output_file = "serverlist.json"
+# Create the final Portainer JSON format
+portainer_json = {
+    "version": "2",
+    "templates": templates
+}
+
+# Save the transformed data to a JSON file in the parent directory
+output_file = os.path.join("..", "portainer.json")
 with open(output_file, "w") as f:
-    json.dump(json_data, f, indent=4)
+    json.dump(portainer_json, f, indent=4)
 
-print(f"JSON data has been written to {output_file}")
+print(f"Portainer templates JSON data has been written to {output_file}")

@@ -1,0 +1,3567 @@
+{
+    "version": "2",
+    "templates": [
+        {
+            "type": 1,
+            "name": "Assetto Corsa",
+            "title": "acserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ac-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ac",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "acserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Action Half-Life",
+            "title": "ahlserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ahl",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ahlserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Action: Source",
+            "title": "ahl2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ahl2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ahl2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "ARK: Survival Evolved",
+            "title": "arkserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ark-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ark",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "arkserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "ARMA 3",
+            "title": "arma3server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/arma3-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:arma3",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "arma3server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Arma Reforger",
+            "title": "armarserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/armar-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:armar",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "armarserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "American Truck Simulator",
+            "title": "atsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ats-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ats",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "atsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Avorion",
+            "title": "avserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/av-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:av",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "avserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "BrainBread",
+            "title": "bbserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bb",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bbserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "BrainBread 2",
+            "title": "bb2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bb2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bb2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Base Defense",
+            "title": "bdserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bd-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bd",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bdserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Battlefield 1942",
+            "title": "bf1942server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bf1942-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bf1942",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bf1942server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Battlefield: Vietnam",
+            "title": "bfvserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bfv-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bfv",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bfvserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Black Mesa: Deathmatch",
+            "title": "bmdmserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bmdm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bmdm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bmdmserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Ballistic Overkill",
+            "title": "boserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bo-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bo",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "boserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Blade Symphony",
+            "title": "bsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bs-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bs",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "bsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Barotrauma",
+            "title": "btserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bt-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:bt",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "btserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "BATTALION: Legacy",
+            "title": "btlserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/btl-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:btl",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "btlserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Codename CURE",
+            "title": "ccserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ccserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Core Keeper",
+            "title": "ckserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ck-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ck",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ckserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Chivalry: Medieval Warfare",
+            "title": "cmwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cmw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cmw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "cmwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Call of Duty",
+            "title": "codserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cod",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "codserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Call of Duty 2",
+            "title": "cod2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cod2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "cod2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Call of Duty 4",
+            "title": "cod4server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod4-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cod4",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "cod4server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Call of Duty: United Offensive",
+            "title": "coduoserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/coduo-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:coduo",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "coduoserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Call of Duty: World at War",
+            "title": "codwawserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/codwaw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:codwaw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "codwawserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Colony Survival",
+            "title": "colserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/col-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:col",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "colserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Counter-Strike 1.6",
+            "title": "csserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cs",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "csserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Counter-Strike 2",
+            "title": "cs2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cs2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "cs2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Counter-Strike: Condition Zero",
+            "title": "csczserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cscz-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:cscz",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "csczserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Counter-Strike: Global Offensive",
+            "title": "csgoserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/csgo-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:csgo",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "csgoserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Counter-Strike: Source",
+            "title": "cssserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/css-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:css",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "cssserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Craftopia",
+            "title": "ctserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ct-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ct",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ctserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Double Action: Boogaloo",
+            "title": "dabserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dab-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dab",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dabserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "DayZ",
+            "title": "dayzserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dayz-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dayz",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dayzserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Deathmatch Classic",
+            "title": "dmcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dmc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dmc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dmcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Day of Defeat",
+            "title": "dodserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dod-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dod",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dodserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Day of Dragons",
+            "title": "dodrserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dodr-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dodr",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dodrserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Day of Defeat: Source",
+            "title": "dodsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dods-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dods",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dodsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Day of Infamy",
+            "title": "doiserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/doi-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:doi",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "doiserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Don't Starve Together",
+            "title": "dstserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dst-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dst",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dstserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Dystopia",
+            "title": "dysserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dys-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:dys",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "dysserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Eco",
+            "title": "ecoserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/eco-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:eco",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ecoserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Empires Mod",
+            "title": "emserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/em-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:em",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "emserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "ET: Legacy",
+            "title": "etlserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/etl-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:etl",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "etlserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Euro Truck Simulator 2",
+            "title": "ets2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ets2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ets2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ets2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Factorio",
+            "title": "fctrserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fctr-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:fctr",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "fctrserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Fistful of Frags",
+            "title": "fofserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fof-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:fof",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "fofserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Garrys Mod",
+            "title": "gmodserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/gmod-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:gmod",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "gmodserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "HYPERCHARGE: Unboxed",
+            "title": "hcuserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hcu-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hcu",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hcuserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Half-Life 2: Deathmatch",
+            "title": "hl2dmserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hl2dm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hl2dm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hl2dmserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Half-Life: Deathmatch",
+            "title": "hldmserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hldm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hldmserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Half-Life Deathmatch: Source",
+            "title": "hldmsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldms-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hldms",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hldmsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Hurtworld",
+            "title": "hwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Humanitz",
+            "title": "hzserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hz-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:hz",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "hzserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Insurgency",
+            "title": "insserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ins-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ins",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "insserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Insurgency: Sandstorm",
+            "title": "inssserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/inss-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:inss",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "inssserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "IOSoccer",
+            "title": "iosserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ios-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ios",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "iosserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Just Cause 2",
+            "title": "jc2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:jc2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "jc2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Just Cause 3",
+            "title": "jc3server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc3-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:jc3",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "jc3server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Jedi Knight II: Jedi Outcast",
+            "title": "jk2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jk2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:jk2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "jk2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Killing Floor",
+            "title": "kfserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:kf",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "kfserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Killing Floor 2",
+            "title": "kf2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:kf2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "kf2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Left 4 Dead",
+            "title": "l4dserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:l4d",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "l4dserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Left 4 Dead 2",
+            "title": "l4d2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:l4d2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "l4d2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Minecraft",
+            "title": "mcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:mc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "mcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Minecraft Bedrock",
+            "title": "mcbserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mcb-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:mcb",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "mcbserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "MORDHAU",
+            "title": "mhserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mh-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:mh",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "mhserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Medal of Honor: Allied Assault",
+            "title": "mohaaserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mohaa-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:mohaa",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "mohaaserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Multi Theft Auto",
+            "title": "mtaserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mta-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:mta",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "mtaserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Nuclear Dawn",
+            "title": "ndserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nd-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:nd",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ndserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Necesse",
+            "title": "necserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nec-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:nec",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "necserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "No More Room in Hell",
+            "title": "nmrihserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nmrih-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:nmrih",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "nmrihserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Natural Selection",
+            "title": "nsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ns",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "nsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Natural Selection 2",
+            "title": "ns2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ns2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ns2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "NS2: Combat",
+            "title": "ns2cserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2c-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ns2c",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ns2cserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Operation: Harsh Doorstop",
+            "title": "ohdserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ohd-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ohd",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ohdserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Onset",
+            "title": "onsetserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/onset-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:onset",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "onsetserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Opposing Force",
+            "title": "opforserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/opfor-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:opfor",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "opforserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Project Cars",
+            "title": "pcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Project Cars 2",
+            "title": "pc2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pc2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pc2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "PaperMC",
+            "title": "pmcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pmc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pmc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pmcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Post Scriptum",
+            "title": "psserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ps-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ps",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "psserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Pirates Vikings & Knights II",
+            "title": "pvkiiserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvkii-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pvkii",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pvkiiserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Pavlov VR",
+            "title": "pvrserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvr-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pvr",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pvrserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Palworld",
+            "title": "pwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Project Zomboid",
+            "title": "pzserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pz-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:pz",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "pzserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Quake 2",
+            "title": "q2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:q2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "q2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Quake 3: Arena",
+            "title": "q3server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q3-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:q3",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "q3server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Quake 4",
+            "title": "q4server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q4-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:q4",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "q4server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Quake Live",
+            "title": "qlserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ql-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ql",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "qlserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Quake World",
+            "title": "qwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/qw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:qw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "qwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Ricochet",
+            "title": "ricochetserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ricochet-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ricochet",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ricochetserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Red Orchestra: Ostfront 41-45",
+            "title": "roserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ro-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ro",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "roserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Return to Castle Wolfenstein",
+            "title": "rtcwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rtcw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:rtcw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "rtcwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Rust",
+            "title": "rustserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rust-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:rust",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "rustserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Rising World",
+            "title": "rwserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:rw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "rwserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "San Andreas Multiplayer",
+            "title": "sampserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/samp-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:samp",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sampserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Starbound",
+            "title": "sbserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sb-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sb",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sbserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "StickyBots",
+            "title": "sbotsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sbots-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sbots",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sbotsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "SCP: Secret Laboratory",
+            "title": "scpslserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpsl-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:scpsl",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "scpslserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "SCP: Secret Laboratory ServerMod",
+            "title": "scpslsmserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpslsm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:scpslsm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "scpslsmserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "7 Days to Die",
+            "title": "sdtdserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sdtd-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sdtd",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sdtdserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Satisfactory",
+            "title": "sfserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sf-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sf",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sfserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "SourceForts Classic",
+            "title": "sfcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sfc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sfc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sfcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Soulmask",
+            "title": "smserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "smserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Soldier Of Fortune 2: Gold Edition",
+            "title": "sof2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sof2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sof2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "sof2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Soldat",
+            "title": "solserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sol-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sol",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "solserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Squad",
+            "title": "squadserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/squad-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:squad",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "squadserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Stationeers",
+            "title": "stserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/st-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:st",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "stserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Survive the Nights",
+            "title": "stnserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/stn-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:stn",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "stnserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Sven Co-op",
+            "title": "svenserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sven-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:sven",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "svenserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Terraria",
+            "title": "terrariaserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/terraria-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:terraria",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "terrariaserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "The Front",
+            "title": "tfserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:tf",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tfserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Team Fortress 2",
+            "title": "tf2server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf2-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:tf2",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tf2server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Team Fortress Classic",
+            "title": "tfcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tfc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:tfc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tfcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "The Isle",
+            "title": "tiserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ti-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ti",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tiserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "The Specialists",
+            "title": "tsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ts",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Teamspeak 3",
+            "title": "ts3server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts3-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ts3",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ts3server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Tower Unite",
+            "title": "tuserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tu-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:tu",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "tuserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Teeworlds",
+            "title": "twserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tw-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:tw",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "twserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Unturned",
+            "title": "untserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/unt-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:unt",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "untserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Unreal Tournament",
+            "title": "utserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ut",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "utserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Unreal Tournament 2004",
+            "title": "ut2k4server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut2k4-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ut2k4",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ut2k4server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Unreal Tournament 3",
+            "title": "ut3server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut3-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ut3",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ut3server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Unreal Tournament 99",
+            "title": "ut99server",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut99-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:ut99",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "ut99server"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Valheim",
+            "title": "vhserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vh-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:vh",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "vhserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Vintage Story",
+            "title": "vintsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vints-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:vints",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "vintsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Velocity Proxy MC",
+            "title": "vpmcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vpmc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:vpmc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "vpmcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Vampire Slayer",
+            "title": "vsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vs-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:vs",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "vsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Wolfenstein: Enemy Territory",
+            "title": "wetserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wet-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:wet",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "wetserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Warfork",
+            "title": "wfserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wf-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:wf",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "wfserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "WaterfallMC",
+            "title": "wmcserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wmc-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:wmc",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "wmcserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Wurm Unlimited",
+            "title": "wurmserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wurm-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:wurm",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "wurmserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Xonotic",
+            "title": "xntserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/xnt-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:xnt",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "xntserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Zombie Master: Reborn",
+            "title": "zmrserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zmr-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:zmr",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "zmrserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        },
+        {
+            "type": 1,
+            "name": "Zombie Panic! Source",
+            "title": "zpsserver",
+            "description": " Dockerized game server by LinuxGSM ",
+            "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zps-icon.png?raw=true",
+            "image": "gameservermanagers/gameserver:zps",
+            "restart_policy": "unless-stopped",
+            "network_mode": "host",
+            "categories": [
+                "Game Server"
+            ],
+            "volumes": [
+                {
+                    "container": "/data",
+                    "bind": "zpsserver"
+                }
+            ],
+            "labels": [
+                {
+                    "name": "Owner",
+                    "value": "LinuxGSMM"
+                }
+            ],
+            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        }
+    ]
+}
