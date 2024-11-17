@@ -35,5 +35,34 @@
           "description": "Specify a timezone to use for example Europe/Amsterdam"
         }
       ]
+    },
+    {
+      "type": 1,
+      "title": "7DTD",
+      "name": "7DTD",
+      "description": "7 Days to Die is a survival game that combines elements of first-person shooter, role-playing, survival horror, and tower defense.",
+      "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sdtd-icon.png?raw=true",
+      "image": "gameservermanagers/gameserver:sdtd",
+      "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+      "categories": [
+        "Game Server"
+      ],
+      "platform": "linux",
+      "restart_policy": "unless-stopped",
+      "network_mode": "host",
+      "volumes": [
+        {
+          "container": "/data",
+          "bind": "sdtd"
+        }
+      ],
+      "env": [
+        {
+          "name": "TZ",
+          "label": "TZ",
+          "default": "!TZ",
+          "description": "Specify a timezone to use for example Europe/Amsterdam"
+        }
+      ]
     }
   ]
