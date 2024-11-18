@@ -3,10 +3,10 @@
         "type": 1,
         "title": "Assetto Corsa",
         "name": "acserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ac-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ac",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ac'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -18,24 +18,16 @@
                 "container": "/data",
                 "bind": "acserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Action Half-Life",
         "name": "ahlserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -47,24 +39,16 @@
                 "container": "/data",
                 "bind": "ahlserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Action: Source",
         "name": "ahl2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -76,24 +60,16 @@
                 "container": "/data",
                 "bind": "ahl2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "ARK: Survival Evolved",
         "name": "arkserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ark-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ark",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ark'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -105,24 +81,16 @@
                 "container": "/data",
                 "bind": "arkserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "ARMA 3",
         "name": "arma3server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/arma3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:arma3",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/arma3'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -134,24 +102,16 @@
                 "container": "/data",
                 "bind": "arma3server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Arma Reforger",
         "name": "armarserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/armar-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:armar",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/armar'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -163,24 +123,16 @@
                 "container": "/data",
                 "bind": "armarserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "American Truck Simulator",
         "name": "atsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ats-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ats",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ats'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -192,24 +144,16 @@
                 "container": "/data",
                 "bind": "atsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Avorion",
         "name": "avserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/av-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:av",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/av'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -221,24 +165,16 @@
                 "container": "/data",
                 "bind": "avserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "BrainBread",
         "name": "bbserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -250,24 +186,16 @@
                 "container": "/data",
                 "bind": "bbserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "BrainBread 2",
         "name": "bb2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -279,24 +207,16 @@
                 "container": "/data",
                 "bind": "bb2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Base Defense",
         "name": "bdserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bd",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bd'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -308,24 +228,16 @@
                 "container": "/data",
                 "bind": "bdserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Battlefield 1942",
         "name": "bf1942server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bf1942-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bf1942",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bf1942'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -337,24 +249,16 @@
                 "container": "/data",
                 "bind": "bf1942server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Battlefield: Vietnam",
         "name": "bfvserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bfv-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bfv",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bfv'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -366,24 +270,16 @@
                 "container": "/data",
                 "bind": "bfvserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Black Mesa: Deathmatch",
         "name": "bmdmserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bmdm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bmdm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bmdm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -395,24 +291,16 @@
                 "container": "/data",
                 "bind": "bmdmserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Ballistic Overkill",
         "name": "boserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bo",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bo'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -424,24 +312,16 @@
                 "container": "/data",
                 "bind": "boserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Blade Symphony",
         "name": "bsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bs",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bs'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -453,24 +333,16 @@
                 "container": "/data",
                 "bind": "bsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Barotrauma",
         "name": "btserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bt",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bt'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -482,24 +354,16 @@
                 "container": "/data",
                 "bind": "btserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "BATTALION: Legacy",
         "name": "btlserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/btl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:btl",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/btl'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -511,24 +375,16 @@
                 "container": "/data",
                 "bind": "btlserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Codename CURE",
         "name": "ccserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -540,24 +396,16 @@
                 "container": "/data",
                 "bind": "ccserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Core Keeper",
         "name": "ckserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ck-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ck",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ck'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -569,24 +417,16 @@
                 "container": "/data",
                 "bind": "ckserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Chivalry: Medieval Warfare",
         "name": "cmwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cmw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cmw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cmw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -598,24 +438,16 @@
                 "container": "/data",
                 "bind": "cmwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Call of Duty",
         "name": "codserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -627,24 +459,16 @@
                 "container": "/data",
                 "bind": "codserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Call of Duty 2",
         "name": "cod2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -656,24 +480,16 @@
                 "container": "/data",
                 "bind": "cod2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Call of Duty 4",
         "name": "cod4server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod4",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod4'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -685,24 +501,16 @@
                 "container": "/data",
                 "bind": "cod4server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Call of Duty: United Offensive",
         "name": "coduoserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/coduo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:coduo",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/coduo'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -714,24 +522,16 @@
                 "container": "/data",
                 "bind": "coduoserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Call of Duty: World at War",
         "name": "codwawserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/codwaw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:codwaw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/codwaw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -743,24 +543,16 @@
                 "container": "/data",
                 "bind": "codwawserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Colony Survival",
         "name": "colserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/col-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:col",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/col'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -772,24 +564,16 @@
                 "container": "/data",
                 "bind": "colserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Counter-Strike 1.6",
         "name": "csserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -801,24 +585,16 @@
                 "container": "/data",
                 "bind": "csserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Counter-Strike 2",
         "name": "cs2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -830,24 +606,16 @@
                 "container": "/data",
                 "bind": "cs2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Counter-Strike: Condition Zero",
         "name": "csczserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cscz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cscz",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cscz'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -859,24 +627,16 @@
                 "container": "/data",
                 "bind": "csczserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Counter-Strike: Global Offensive",
         "name": "csgoserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/csgo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:csgo",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/csgo'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -888,24 +648,16 @@
                 "container": "/data",
                 "bind": "csgoserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Counter-Strike: Source",
         "name": "cssserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/css-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:css",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/css'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -917,24 +669,16 @@
                 "container": "/data",
                 "bind": "cssserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Craftopia",
         "name": "ctserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ct-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ct",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ct'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -946,24 +690,16 @@
                 "container": "/data",
                 "bind": "ctserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Double Action: Boogaloo",
         "name": "dabserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dab-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dab",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dab'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -975,24 +711,16 @@
                 "container": "/data",
                 "bind": "dabserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "DayZ",
         "name": "dayzserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dayz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dayz",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dayz'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1004,24 +732,16 @@
                 "container": "/data",
                 "bind": "dayzserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Deathmatch Classic",
         "name": "dmcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dmc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dmc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1033,24 +753,16 @@
                 "container": "/data",
                 "bind": "dmcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Day of Defeat",
         "name": "dodserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dod",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dod'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1062,24 +774,16 @@
                 "container": "/data",
                 "bind": "dodserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Day of Dragons",
         "name": "dodrserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dodr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dodr",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dodr'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1091,24 +795,16 @@
                 "container": "/data",
                 "bind": "dodrserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Day of Defeat: Source",
         "name": "dodsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dods-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dods",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dods'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1120,24 +816,16 @@
                 "container": "/data",
                 "bind": "dodsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Day of Infamy",
         "name": "doiserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/doi-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:doi",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/doi'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1149,24 +837,16 @@
                 "container": "/data",
                 "bind": "doiserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Don't Starve Together",
         "name": "dstserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dst-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dst",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dst'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1178,24 +858,16 @@
                 "container": "/data",
                 "bind": "dstserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Dystopia",
         "name": "dysserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dys-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dys",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dys'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1207,24 +879,16 @@
                 "container": "/data",
                 "bind": "dysserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Eco",
         "name": "ecoserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/eco-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:eco",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/eco'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1236,24 +900,16 @@
                 "container": "/data",
                 "bind": "ecoserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Empires Mod",
         "name": "emserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/em-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:em",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/em'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1265,24 +921,16 @@
                 "container": "/data",
                 "bind": "emserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "ET: Legacy",
         "name": "etlserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/etl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:etl",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/etl'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1294,24 +942,16 @@
                 "container": "/data",
                 "bind": "etlserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Euro Truck Simulator 2",
         "name": "ets2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ets2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ets2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ets2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1323,24 +963,16 @@
                 "container": "/data",
                 "bind": "ets2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Factorio",
         "name": "fctrserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fctr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fctr",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fctr'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1352,24 +984,16 @@
                 "container": "/data",
                 "bind": "fctrserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Fistful of Frags",
         "name": "fofserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fof-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fof",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fof'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1381,24 +1005,16 @@
                 "container": "/data",
                 "bind": "fofserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Garrys Mod",
         "name": "gmodserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/gmod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:gmod",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/gmod'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1410,24 +1026,16 @@
                 "container": "/data",
                 "bind": "gmodserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "HYPERCHARGE: Unboxed",
         "name": "hcuserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hcu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hcu",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hcu'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1439,24 +1047,16 @@
                 "container": "/data",
                 "bind": "hcuserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Half-Life 2: Deathmatch",
         "name": "hl2dmserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hl2dm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hl2dm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hl2dm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1468,24 +1068,16 @@
                 "container": "/data",
                 "bind": "hl2dmserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Half-Life: Deathmatch",
         "name": "hldmserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1497,24 +1089,16 @@
                 "container": "/data",
                 "bind": "hldmserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Half-Life Deathmatch: Source",
         "name": "hldmsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldms-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldms",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldms'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1526,24 +1110,16 @@
                 "container": "/data",
                 "bind": "hldmsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Hurtworld",
         "name": "hwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1555,24 +1131,16 @@
                 "container": "/data",
                 "bind": "hwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Humanitz",
         "name": "hzserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hz",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hz'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1584,24 +1152,16 @@
                 "container": "/data",
                 "bind": "hzserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Insurgency",
         "name": "insserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ins-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ins",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ins'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1613,24 +1173,16 @@
                 "container": "/data",
                 "bind": "insserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Insurgency: Sandstorm",
         "name": "inssserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/inss-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:inss",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/inss'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1642,24 +1194,16 @@
                 "container": "/data",
                 "bind": "inssserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "IOSoccer",
         "name": "iosserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ios-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ios",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ios'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1671,24 +1215,16 @@
                 "container": "/data",
                 "bind": "iosserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Just Cause 2",
         "name": "jc2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1700,24 +1236,16 @@
                 "container": "/data",
                 "bind": "jc2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Just Cause 3",
         "name": "jc3server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc3",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc3'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1729,24 +1257,16 @@
                 "container": "/data",
                 "bind": "jc3server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Jedi Knight II: Jedi Outcast",
         "name": "jk2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jk2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jk2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jk2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1758,24 +1278,16 @@
                 "container": "/data",
                 "bind": "jk2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Killing Floor",
         "name": "kfserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1787,24 +1299,16 @@
                 "container": "/data",
                 "bind": "kfserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Killing Floor 2",
         "name": "kf2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1816,24 +1320,16 @@
                 "container": "/data",
                 "bind": "kf2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Left 4 Dead",
         "name": "l4dserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1845,24 +1341,16 @@
                 "container": "/data",
                 "bind": "l4dserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Left 4 Dead 2",
         "name": "l4d2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1874,24 +1362,16 @@
                 "container": "/data",
                 "bind": "l4d2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Minecraft",
         "name": "mcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1903,24 +1383,16 @@
                 "container": "/data",
                 "bind": "mcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Minecraft Bedrock",
         "name": "mcbserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mcb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mcb",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mcb'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1932,24 +1404,16 @@
                 "container": "/data",
                 "bind": "mcbserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "MORDHAU",
         "name": "mhserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mh",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mh'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1961,24 +1425,16 @@
                 "container": "/data",
                 "bind": "mhserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Medal of Honor: Allied Assault",
         "name": "mohaaserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mohaa-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mohaa",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mohaa'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1990,24 +1446,16 @@
                 "container": "/data",
                 "bind": "mohaaserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Multi Theft Auto",
         "name": "mtaserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mta-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mta",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mta'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2019,24 +1467,16 @@
                 "container": "/data",
                 "bind": "mtaserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Nuclear Dawn",
         "name": "ndserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nd",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nd'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2048,24 +1488,16 @@
                 "container": "/data",
                 "bind": "ndserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Necesse",
         "name": "necserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nec-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nec",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nec'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2077,24 +1509,16 @@
                 "container": "/data",
                 "bind": "necserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "No More Room in Hell",
         "name": "nmrihserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nmrih-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nmrih",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nmrih'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2106,24 +1530,16 @@
                 "container": "/data",
                 "bind": "nmrihserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Natural Selection",
         "name": "nsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2135,24 +1551,16 @@
                 "container": "/data",
                 "bind": "nsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Natural Selection 2",
         "name": "ns2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2164,24 +1572,16 @@
                 "container": "/data",
                 "bind": "ns2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "NS2: Combat",
         "name": "ns2cserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2c-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2c",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2c'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2193,24 +1593,16 @@
                 "container": "/data",
                 "bind": "ns2cserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Operation: Harsh Doorstop",
         "name": "ohdserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ohd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ohd",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ohd'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2222,24 +1614,16 @@
                 "container": "/data",
                 "bind": "ohdserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Onset",
         "name": "onsetserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/onset-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:onset",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/onset'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2251,24 +1635,16 @@
                 "container": "/data",
                 "bind": "onsetserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Opposing Force",
         "name": "opforserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/opfor-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:opfor",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/opfor'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2280,24 +1656,16 @@
                 "container": "/data",
                 "bind": "opforserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Project Cars",
         "name": "pcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2309,24 +1677,16 @@
                 "container": "/data",
                 "bind": "pcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Project Cars 2",
         "name": "pc2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2338,24 +1698,16 @@
                 "container": "/data",
                 "bind": "pc2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "PaperMC",
         "name": "pmcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pmc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pmc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2367,24 +1719,16 @@
                 "container": "/data",
                 "bind": "pmcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Post Scriptum",
         "name": "psserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ps",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ps'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2396,24 +1740,16 @@
                 "container": "/data",
                 "bind": "psserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Pirates Vikings & Knights II",
         "name": "pvkiiserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvkii-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvkii",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvkii'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2425,24 +1761,16 @@
                 "container": "/data",
                 "bind": "pvkiiserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Pavlov VR",
         "name": "pvrserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvr",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvr'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2454,24 +1782,16 @@
                 "container": "/data",
                 "bind": "pvrserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Palworld",
         "name": "pwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2483,24 +1803,16 @@
                 "container": "/data",
                 "bind": "pwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Project Zomboid",
         "name": "pzserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pz",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pz'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2512,24 +1824,16 @@
                 "container": "/data",
                 "bind": "pzserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Quake 2",
         "name": "q2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2541,24 +1845,16 @@
                 "container": "/data",
                 "bind": "q2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Quake 3: Arena",
         "name": "q3server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q3",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q3'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2570,24 +1866,16 @@
                 "container": "/data",
                 "bind": "q3server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Quake 4",
         "name": "q4server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q4",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q4'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2599,24 +1887,16 @@
                 "container": "/data",
                 "bind": "q4server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Quake Live",
         "name": "qlserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ql-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ql",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ql'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2628,24 +1908,16 @@
                 "container": "/data",
                 "bind": "qlserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Quake World",
         "name": "qwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/qw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:qw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/qw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2657,24 +1929,16 @@
                 "container": "/data",
                 "bind": "qwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Ricochet",
         "name": "ricochetserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ricochet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ricochet",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ricochet'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2686,24 +1950,16 @@
                 "container": "/data",
                 "bind": "ricochetserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Red Orchestra: Ostfront 41-45",
         "name": "roserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ro-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ro",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ro'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2715,24 +1971,16 @@
                 "container": "/data",
                 "bind": "roserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Return to Castle Wolfenstein",
         "name": "rtcwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rtcw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rtcw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rtcw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2744,24 +1992,16 @@
                 "container": "/data",
                 "bind": "rtcwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Rust",
         "name": "rustserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rust-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rust",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rust'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2773,24 +2013,16 @@
                 "container": "/data",
                 "bind": "rustserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Rising World",
         "name": "rwserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2802,24 +2034,16 @@
                 "container": "/data",
                 "bind": "rwserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "San Andreas Multiplayer",
         "name": "sampserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/samp-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:samp",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/samp'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2831,24 +2055,16 @@
                 "container": "/data",
                 "bind": "sampserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Starbound",
         "name": "sbserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sb",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sb'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2860,24 +2076,16 @@
                 "container": "/data",
                 "bind": "sbserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "StickyBots",
         "name": "sbotsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sbots-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sbots",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sbots'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2889,24 +2097,16 @@
                 "container": "/data",
                 "bind": "sbotsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "SCP: Secret Laboratory",
         "name": "scpslserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpsl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpsl",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpsl'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2918,24 +2118,16 @@
                 "container": "/data",
                 "bind": "scpslserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "SCP: Secret Laboratory ServerMod",
         "name": "scpslsmserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpslsm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpslsm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpslsm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2947,24 +2139,16 @@
                 "container": "/data",
                 "bind": "scpslsmserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "7 Days to Die",
         "name": "sdtdserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sdtd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sdtd",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sdtd'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2976,24 +2160,16 @@
                 "container": "/data",
                 "bind": "sdtdserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Satisfactory",
         "name": "sfserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sf",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sf'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3005,24 +2181,16 @@
                 "container": "/data",
                 "bind": "sfserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "SourceForts Classic",
         "name": "sfcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sfc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sfc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3034,24 +2202,16 @@
                 "container": "/data",
                 "bind": "sfcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Soulmask",
         "name": "smserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3063,24 +2223,16 @@
                 "container": "/data",
                 "bind": "smserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Soldier Of Fortune 2: Gold Edition",
         "name": "sof2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sof2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sof2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sof2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3092,24 +2244,16 @@
                 "container": "/data",
                 "bind": "sof2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Soldat",
         "name": "solserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sol-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sol",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sol'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3121,24 +2265,16 @@
                 "container": "/data",
                 "bind": "solserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Squad",
         "name": "squadserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/squad-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:squad",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/squad'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3150,24 +2286,16 @@
                 "container": "/data",
                 "bind": "squadserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Stationeers",
         "name": "stserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/st-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:st",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/st'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3179,24 +2307,16 @@
                 "container": "/data",
                 "bind": "stserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Survive the Nights",
         "name": "stnserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/stn-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:stn",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/stn'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3208,24 +2328,16 @@
                 "container": "/data",
                 "bind": "stnserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Sven Co-op",
         "name": "svenserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sven-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sven",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sven'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3237,24 +2349,16 @@
                 "container": "/data",
                 "bind": "svenserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Terraria",
         "name": "terrariaserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/terraria-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:terraria",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/terraria'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3266,24 +2370,16 @@
                 "container": "/data",
                 "bind": "terrariaserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "The Front",
         "name": "tfserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3295,24 +2391,16 @@
                 "container": "/data",
                 "bind": "tfserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Team Fortress 2",
         "name": "tf2server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf2",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf2'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3324,24 +2412,16 @@
                 "container": "/data",
                 "bind": "tf2server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Team Fortress Classic",
         "name": "tfcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tfc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tfc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3353,24 +2433,16 @@
                 "container": "/data",
                 "bind": "tfcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "The Isle",
         "name": "tiserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ti-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ti",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ti'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3382,24 +2454,16 @@
                 "container": "/data",
                 "bind": "tiserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "The Specialists",
         "name": "tsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3411,24 +2475,16 @@
                 "container": "/data",
                 "bind": "tsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Teamspeak 3",
         "name": "ts3server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts3",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts3'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3440,24 +2496,16 @@
                 "container": "/data",
                 "bind": "ts3server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Tower Unite",
         "name": "tuserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tu",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tu'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3469,24 +2517,16 @@
                 "container": "/data",
                 "bind": "tuserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Teeworlds",
         "name": "twserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tw",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tw'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3498,24 +2538,16 @@
                 "container": "/data",
                 "bind": "twserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Unturned",
         "name": "untserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/unt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:unt",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/unt'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3527,24 +2559,16 @@
                 "container": "/data",
                 "bind": "untserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Unreal Tournament",
         "name": "utserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3556,24 +2580,16 @@
                 "container": "/data",
                 "bind": "utserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Unreal Tournament 2004",
         "name": "ut2k4server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut2k4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut2k4",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut2k4'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3585,24 +2601,16 @@
                 "container": "/data",
                 "bind": "ut2k4server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Unreal Tournament 3",
         "name": "ut3server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut3",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut3'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3614,24 +2622,16 @@
                 "container": "/data",
                 "bind": "ut3server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Unreal Tournament 99",
         "name": "ut99server",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut99-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut99",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut99'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3643,24 +2643,16 @@
                 "container": "/data",
                 "bind": "ut99server"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Valheim",
         "name": "vhserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vh",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vh'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3672,24 +2664,16 @@
                 "container": "/data",
                 "bind": "vhserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Vintage Story",
         "name": "vintsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vints-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vints",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vints'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3701,24 +2685,16 @@
                 "container": "/data",
                 "bind": "vintsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Velocity Proxy MC",
         "name": "vpmcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vpmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vpmc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vpmc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3730,24 +2706,16 @@
                 "container": "/data",
                 "bind": "vpmcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Vampire Slayer",
         "name": "vsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vs",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vs'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3759,24 +2727,16 @@
                 "container": "/data",
                 "bind": "vsserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Wolfenstein: Enemy Territory",
         "name": "wetserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wet",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wet'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3788,24 +2748,16 @@
                 "container": "/data",
                 "bind": "wetserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Warfork",
         "name": "wfserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wf",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wf'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3817,24 +2769,16 @@
                 "container": "/data",
                 "bind": "wfserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "WaterfallMC",
         "name": "wmcserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wmc",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wmc'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3846,24 +2790,16 @@
                 "container": "/data",
                 "bind": "wmcserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Wurm Unlimited",
         "name": "wurmserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wurm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wurm",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wurm'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3875,24 +2811,16 @@
                 "container": "/data",
                 "bind": "wurmserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Xonotic",
         "name": "xntserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/xnt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:xnt",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/xnt'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3904,24 +2832,16 @@
                 "container": "/data",
                 "bind": "xntserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Zombie Master: Reborn",
         "name": "zmrserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zmr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zmr",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zmr'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3933,24 +2853,16 @@
                 "container": "/data",
                 "bind": "zmrserver"
             }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
-            }
         ]
     },
     {
         "type": 1,
         "title": "Zombie Panic! Source",
         "name": "zpsserver",
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zps",
-        "note": "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zps'/>here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -3961,14 +2873,6 @@
             {
                 "container": "/data",
                 "bind": "zpsserver"
-            }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
             }
         ]
     }

@@ -20,13 +20,10 @@ for row in csv_reader:
         "type": 1,
         "title": row["gamename"],
         "name": row["gameservername"],
-        "description": "Lorem Ipsum.",
+        "description": " Dockerized game server by LinuxGSM ",
         "logo": f"https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/{row['shortname']}-icon.png?raw=true",
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
-        "note": (
-            "Yacht App Templates by <a href='https://github.com/SelfhostedPro' target='_blank'>SelfhostedPro</a> "
-            "based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p>"
-        ),
+        "note": f"Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/{row['shortname']}'/>here</a>.",
         "categories": ["Game Server"],
         "platform": "linux",
         "restart_policy": "unless-stopped",
@@ -35,14 +32,6 @@ for row in csv_reader:
             {
                 "container": "/data",
                 "bind": row["gameservername"]
-            }
-        ],
-        "env": [
-            {
-                "name": "TZ",
-                "label": "TZ",
-                "default": "!TZ",
-                "description": "Specify a timezone to use for example Europe/Amsterdam"
             }
         ]
     }

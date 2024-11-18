@@ -23,6 +23,7 @@ for row in csv_reader:
         "description": " Dockerized game server by LinuxGSM ",
         "logo": f"https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/{row['shortname']}-icon.png?raw=true",
         "image": f"gameservermanagers/gameserver:{row['shortname']}",
+        "note": f"Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/{row['shortname']}'/>here</a>.",
         "restart_policy": "unless-stopped",
         "network": "host",
         "platform": "linux",
