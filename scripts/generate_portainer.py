@@ -34,14 +34,7 @@ for row in csv_reader:
                 "container": "/data",
                 "bind": row["gameservername"]
             }
-        ],
-        "labels": [
-            {
-                "name": "Owner",
-                "value": "LinuxGSMM"
-            }
-        ],
-        "maintainer": " https://github.com/miztertea/linuxgsmm/"
+        ]
     }
     templates.append(template)
 

@@ -19,14 +19,7 @@
                     "container": "/data",
                     "bind": "acserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -46,14 +39,7 @@
                     "container": "/data",
                     "bind": "ahlserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -73,14 +59,7 @@
                     "container": "/data",
                     "bind": "ahl2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -100,14 +79,7 @@
                     "container": "/data",
                     "bind": "arkserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -127,14 +99,7 @@
                     "container": "/data",
                     "bind": "arma3server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -154,14 +119,7 @@
                     "container": "/data",
                     "bind": "armarserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -181,14 +139,7 @@
                     "container": "/data",
                     "bind": "atsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -208,14 +159,7 @@
                     "container": "/data",
                     "bind": "avserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -235,14 +179,7 @@
                     "container": "/data",
                     "bind": "bbserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -262,14 +199,7 @@
                     "container": "/data",
                     "bind": "bb2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -289,14 +219,7 @@
                     "container": "/data",
                     "bind": "bdserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -316,14 +239,7 @@
                     "container": "/data",
                     "bind": "bf1942server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -343,14 +259,7 @@
                     "container": "/data",
                     "bind": "bfvserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -370,14 +279,7 @@
                     "container": "/data",
                     "bind": "bmdmserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -397,14 +299,7 @@
                     "container": "/data",
                     "bind": "boserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -424,14 +319,7 @@
                     "container": "/data",
                     "bind": "bsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -451,14 +339,7 @@
                     "container": "/data",
                     "bind": "btserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -478,14 +359,7 @@
                     "container": "/data",
                     "bind": "btlserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -505,14 +379,7 @@
                     "container": "/data",
                     "bind": "ccserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -532,14 +399,7 @@
                     "container": "/data",
                     "bind": "ckserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -559,14 +419,7 @@
                     "container": "/data",
                     "bind": "cmwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -586,14 +439,7 @@
                     "container": "/data",
                     "bind": "codserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -613,14 +459,7 @@
                     "container": "/data",
                     "bind": "cod2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -640,14 +479,7 @@
                     "container": "/data",
                     "bind": "cod4server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -667,14 +499,7 @@
                     "container": "/data",
                     "bind": "coduoserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -694,14 +519,7 @@
                     "container": "/data",
                     "bind": "codwawserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -721,14 +539,7 @@
                     "container": "/data",
                     "bind": "colserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -748,14 +559,7 @@
                     "container": "/data",
                     "bind": "csserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -775,14 +579,7 @@
                     "container": "/data",
                     "bind": "cs2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -802,14 +599,7 @@
                     "container": "/data",
                     "bind": "csczserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -829,14 +619,7 @@
                     "container": "/data",
                     "bind": "csgoserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -856,14 +639,7 @@
                     "container": "/data",
                     "bind": "cssserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -883,14 +659,7 @@
                     "container": "/data",
                     "bind": "ctserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -910,14 +679,7 @@
                     "container": "/data",
                     "bind": "dabserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -937,14 +699,7 @@
                     "container": "/data",
                     "bind": "dayzserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -964,14 +719,7 @@
                     "container": "/data",
                     "bind": "dmcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -991,14 +739,7 @@
                     "container": "/data",
                     "bind": "dodserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1018,14 +759,7 @@
                     "container": "/data",
                     "bind": "dodrserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1045,14 +779,7 @@
                     "container": "/data",
                     "bind": "dodsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1072,14 +799,7 @@
                     "container": "/data",
                     "bind": "doiserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1099,14 +819,7 @@
                     "container": "/data",
                     "bind": "dstserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1126,14 +839,7 @@
                     "container": "/data",
                     "bind": "dysserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1153,14 +859,7 @@
                     "container": "/data",
                     "bind": "ecoserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1180,14 +879,7 @@
                     "container": "/data",
                     "bind": "emserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1207,14 +899,7 @@
                     "container": "/data",
                     "bind": "etlserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1234,14 +919,7 @@
                     "container": "/data",
                     "bind": "ets2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1261,14 +939,7 @@
                     "container": "/data",
                     "bind": "fctrserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1288,14 +959,7 @@
                     "container": "/data",
                     "bind": "fofserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1315,14 +979,7 @@
                     "container": "/data",
                     "bind": "gmodserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1342,14 +999,7 @@
                     "container": "/data",
                     "bind": "hcuserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1369,14 +1019,7 @@
                     "container": "/data",
                     "bind": "hl2dmserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1396,14 +1039,7 @@
                     "container": "/data",
                     "bind": "hldmserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1423,14 +1059,7 @@
                     "container": "/data",
                     "bind": "hldmsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1450,14 +1079,7 @@
                     "container": "/data",
                     "bind": "hwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1477,14 +1099,7 @@
                     "container": "/data",
                     "bind": "hzserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1504,14 +1119,7 @@
                     "container": "/data",
                     "bind": "insserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1531,14 +1139,7 @@
                     "container": "/data",
                     "bind": "inssserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1558,14 +1159,7 @@
                     "container": "/data",
                     "bind": "iosserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1585,14 +1179,7 @@
                     "container": "/data",
                     "bind": "jc2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1612,14 +1199,7 @@
                     "container": "/data",
                     "bind": "jc3server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1639,14 +1219,7 @@
                     "container": "/data",
                     "bind": "jk2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1666,14 +1239,7 @@
                     "container": "/data",
                     "bind": "kfserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1693,14 +1259,7 @@
                     "container": "/data",
                     "bind": "kf2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1720,14 +1279,7 @@
                     "container": "/data",
                     "bind": "l4dserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1747,14 +1299,7 @@
                     "container": "/data",
                     "bind": "l4d2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1774,14 +1319,7 @@
                     "container": "/data",
                     "bind": "mcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1801,14 +1339,7 @@
                     "container": "/data",
                     "bind": "mcbserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1828,14 +1359,7 @@
                     "container": "/data",
                     "bind": "mhserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1855,14 +1379,7 @@
                     "container": "/data",
                     "bind": "mohaaserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1882,14 +1399,7 @@
                     "container": "/data",
                     "bind": "mtaserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1909,14 +1419,7 @@
                     "container": "/data",
                     "bind": "ndserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1936,14 +1439,7 @@
                     "container": "/data",
                     "bind": "necserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1963,14 +1459,7 @@
                     "container": "/data",
                     "bind": "nmrihserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -1990,14 +1479,7 @@
                     "container": "/data",
                     "bind": "nsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2017,14 +1499,7 @@
                     "container": "/data",
                     "bind": "ns2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2044,14 +1519,7 @@
                     "container": "/data",
                     "bind": "ns2cserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2071,14 +1539,7 @@
                     "container": "/data",
                     "bind": "ohdserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2098,14 +1559,7 @@
                     "container": "/data",
                     "bind": "onsetserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2125,14 +1579,7 @@
                     "container": "/data",
                     "bind": "opforserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2152,14 +1599,7 @@
                     "container": "/data",
                     "bind": "pcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2179,14 +1619,7 @@
                     "container": "/data",
                     "bind": "pc2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2206,14 +1639,7 @@
                     "container": "/data",
                     "bind": "pmcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2233,14 +1659,7 @@
                     "container": "/data",
                     "bind": "psserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2260,14 +1679,7 @@
                     "container": "/data",
                     "bind": "pvkiiserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2287,14 +1699,7 @@
                     "container": "/data",
                     "bind": "pvrserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2314,14 +1719,7 @@
                     "container": "/data",
                     "bind": "pwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2341,14 +1739,7 @@
                     "container": "/data",
                     "bind": "pzserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2368,14 +1759,7 @@
                     "container": "/data",
                     "bind": "q2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2395,14 +1779,7 @@
                     "container": "/data",
                     "bind": "q3server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2422,14 +1799,7 @@
                     "container": "/data",
                     "bind": "q4server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2449,14 +1819,7 @@
                     "container": "/data",
                     "bind": "qlserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2476,14 +1839,7 @@
                     "container": "/data",
                     "bind": "qwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2503,14 +1859,7 @@
                     "container": "/data",
                     "bind": "ricochetserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2530,14 +1879,7 @@
                     "container": "/data",
                     "bind": "roserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2557,14 +1899,7 @@
                     "container": "/data",
                     "bind": "rtcwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2584,14 +1919,7 @@
                     "container": "/data",
                     "bind": "rustserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2611,14 +1939,7 @@
                     "container": "/data",
                     "bind": "rwserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2638,14 +1959,7 @@
                     "container": "/data",
                     "bind": "sampserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2665,14 +1979,7 @@
                     "container": "/data",
                     "bind": "sbserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2692,14 +1999,7 @@
                     "container": "/data",
                     "bind": "sbotsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2719,14 +2019,7 @@
                     "container": "/data",
                     "bind": "scpslserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2746,14 +2039,7 @@
                     "container": "/data",
                     "bind": "scpslsmserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2773,14 +2059,7 @@
                     "container": "/data",
                     "bind": "sdtdserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2800,14 +2079,7 @@
                     "container": "/data",
                     "bind": "sfserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2827,14 +2099,7 @@
                     "container": "/data",
                     "bind": "sfcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2854,14 +2119,7 @@
                     "container": "/data",
                     "bind": "smserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2881,14 +2139,7 @@
                     "container": "/data",
                     "bind": "sof2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2908,14 +2159,7 @@
                     "container": "/data",
                     "bind": "solserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2935,14 +2179,7 @@
                     "container": "/data",
                     "bind": "squadserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2962,14 +2199,7 @@
                     "container": "/data",
                     "bind": "stserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -2989,14 +2219,7 @@
                     "container": "/data",
                     "bind": "stnserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3016,14 +2239,7 @@
                     "container": "/data",
                     "bind": "svenserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3043,14 +2259,7 @@
                     "container": "/data",
                     "bind": "terrariaserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3070,14 +2279,7 @@
                     "container": "/data",
                     "bind": "tfserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3097,14 +2299,7 @@
                     "container": "/data",
                     "bind": "tf2server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3124,14 +2319,7 @@
                     "container": "/data",
                     "bind": "tfcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3151,14 +2339,7 @@
                     "container": "/data",
                     "bind": "tiserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3178,14 +2359,7 @@
                     "container": "/data",
                     "bind": "tsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3205,14 +2379,7 @@
                     "container": "/data",
                     "bind": "ts3server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3232,14 +2399,7 @@
                     "container": "/data",
                     "bind": "tuserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3259,14 +2419,7 @@
                     "container": "/data",
                     "bind": "twserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3286,14 +2439,7 @@
                     "container": "/data",
                     "bind": "untserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3313,14 +2459,7 @@
                     "container": "/data",
                     "bind": "utserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3340,14 +2479,7 @@
                     "container": "/data",
                     "bind": "ut2k4server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3367,14 +2499,7 @@
                     "container": "/data",
                     "bind": "ut3server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3394,14 +2519,7 @@
                     "container": "/data",
                     "bind": "ut99server"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3421,14 +2539,7 @@
                     "container": "/data",
                     "bind": "vhserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3448,14 +2559,7 @@
                     "container": "/data",
                     "bind": "vintsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3475,14 +2579,7 @@
                     "container": "/data",
                     "bind": "vpmcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3502,14 +2599,7 @@
                     "container": "/data",
                     "bind": "vsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3529,14 +2619,7 @@
                     "container": "/data",
                     "bind": "wetserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3556,14 +2639,7 @@
                     "container": "/data",
                     "bind": "wfserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3583,14 +2659,7 @@
                     "container": "/data",
                     "bind": "wmcserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3610,14 +2679,7 @@
                     "container": "/data",
                     "bind": "wurmserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3637,14 +2699,7 @@
                     "container": "/data",
                     "bind": "xntserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3664,14 +2719,7 @@
                     "container": "/data",
                     "bind": "zmrserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         },
         {
             "type": 1,
@@ -3691,14 +2739,7 @@
                     "container": "/data",
                     "bind": "zpsserver"
                 }
-            ],
-            "labels": [
-                {
-                    "name": "Owner",
-                    "value": "LinuxGSMM"
-                }
-            ],
-            "maintainer": " https://github.com/miztertea/linuxgsmm/"
+            ]
         }
     ]
 }
