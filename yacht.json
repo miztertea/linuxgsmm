@@ -6,7 +6,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ac-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ac",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ac'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ac' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -27,7 +27,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -48,7 +48,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ahl2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ahl2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ahl2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -69,7 +69,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ark-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ark",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ark'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ark' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -90,7 +90,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/arma3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:arma3",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/arma3'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/arma3' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -111,7 +111,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/armar-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:armar",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/armar'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/armar' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -132,7 +132,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ats-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ats",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ats'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ats' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -153,7 +153,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/av-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:av",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/av'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/av' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -174,7 +174,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -195,7 +195,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bb2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bb2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bb2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -216,7 +216,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bd",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bd'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bd' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -237,7 +237,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bf1942-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bf1942",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bf1942'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bf1942' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -258,7 +258,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bfv-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bfv",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bfv'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bfv' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -279,7 +279,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bmdm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bmdm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bmdm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bmdm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -300,7 +300,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bo",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bo'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bo' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -321,7 +321,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bs",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bs'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bs' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -342,7 +342,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/bt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:bt",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bt'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/bt' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -363,7 +363,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/btl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:btl",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/btl'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/btl' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -384,7 +384,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -405,7 +405,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ck-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ck",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ck'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ck' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -426,7 +426,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cmw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cmw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cmw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cmw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -447,7 +447,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -468,7 +468,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -489,7 +489,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cod4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cod4",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod4'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cod4' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -510,7 +510,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/coduo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:coduo",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/coduo'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/coduo' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -531,7 +531,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/codwaw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:codwaw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/codwaw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/codwaw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -552,7 +552,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/col-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:col",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/col'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/col' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -573,7 +573,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -594,7 +594,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cs2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cs2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cs2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -615,7 +615,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/cscz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:cscz",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cscz'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/cscz' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -636,7 +636,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/csgo-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:csgo",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/csgo'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/csgo' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -657,7 +657,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/css-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:css",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/css'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/css' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -678,7 +678,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ct-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ct",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ct'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ct' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -699,7 +699,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dab-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dab",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dab'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dab' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -720,7 +720,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dayz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dayz",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dayz'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dayz' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -741,7 +741,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dmc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dmc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dmc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -762,7 +762,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dod",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dod'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dod' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -783,7 +783,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dodr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dodr",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dodr'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dodr' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -804,7 +804,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dods-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dods",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dods'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dods' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -825,7 +825,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/doi-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:doi",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/doi'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/doi' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -846,7 +846,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dst-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dst",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dst'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dst' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -867,7 +867,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/dys-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:dys",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dys'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/dys' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -888,7 +888,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/eco-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:eco",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/eco'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/eco' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -909,7 +909,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/em-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:em",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/em'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/em' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -930,7 +930,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/etl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:etl",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/etl'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/etl' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -951,7 +951,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ets2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ets2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ets2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ets2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -972,7 +972,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fctr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fctr",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fctr'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fctr' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -993,7 +993,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/fof-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:fof",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fof'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/fof' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1014,7 +1014,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/gmod-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:gmod",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/gmod'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/gmod' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1035,7 +1035,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hcu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hcu",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hcu'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hcu' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1056,7 +1056,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hl2dm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hl2dm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hl2dm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hl2dm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1077,7 +1077,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1098,7 +1098,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hldms-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hldms",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldms'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hldms' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1119,7 +1119,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1140,7 +1140,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/hz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:hz",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hz'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/hz' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1161,7 +1161,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ins-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ins",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ins'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ins' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1182,7 +1182,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/inss-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:inss",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/inss'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/inss' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1203,7 +1203,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ios-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ios",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ios'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ios' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1224,7 +1224,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1245,7 +1245,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jc3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jc3",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc3'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jc3' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1266,7 +1266,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/jk2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:jk2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jk2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/jk2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1287,7 +1287,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1308,7 +1308,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/kf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:kf2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/kf2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1329,7 +1329,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1350,7 +1350,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/l4d2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:l4d2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/l4d2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1371,7 +1371,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1392,7 +1392,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mcb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mcb",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mcb'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mcb' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1413,7 +1413,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mh",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mh'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mh' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1434,7 +1434,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mohaa-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mohaa",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mohaa'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mohaa' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1455,7 +1455,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/mta-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:mta",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mta'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/mta' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1476,7 +1476,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nd",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nd'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nd' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1497,7 +1497,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nec-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nec",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nec'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nec' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1518,7 +1518,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/nmrih-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:nmrih",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nmrih'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/nmrih' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1539,7 +1539,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1560,7 +1560,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1581,7 +1581,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ns2c-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ns2c",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2c'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ns2c' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1602,7 +1602,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ohd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ohd",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ohd'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ohd' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1623,7 +1623,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/onset-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:onset",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/onset'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/onset' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1644,7 +1644,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/opfor-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:opfor",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/opfor'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/opfor' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1665,7 +1665,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1686,7 +1686,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pc2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pc2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pc2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1707,7 +1707,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pmc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pmc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pmc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1728,7 +1728,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ps",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ps'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ps' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1749,7 +1749,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvkii-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvkii",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvkii'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvkii' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1770,7 +1770,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pvr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pvr",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvr'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pvr' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1791,7 +1791,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1812,7 +1812,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/pz-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:pz",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pz'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/pz' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1833,7 +1833,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1854,7 +1854,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q3",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q3'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q3' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1875,7 +1875,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/q4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:q4",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q4'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/q4' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1896,7 +1896,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ql-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ql",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ql'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ql' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1917,7 +1917,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/qw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:qw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/qw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/qw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1938,7 +1938,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ricochet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ricochet",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ricochet'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ricochet' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1959,7 +1959,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ro-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ro",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ro'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ro' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -1980,7 +1980,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rtcw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rtcw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rtcw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rtcw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2001,7 +2001,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rust-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rust",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rust'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rust' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2022,7 +2022,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/rw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:rw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/rw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2043,7 +2043,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/samp-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:samp",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/samp'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/samp' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2064,7 +2064,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sb-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sb",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sb'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sb' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2085,7 +2085,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sbots-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sbots",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sbots'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sbots' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2106,7 +2106,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpsl-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpsl",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpsl'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpsl' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2127,7 +2127,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/scpslsm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:scpslsm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpslsm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/scpslsm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2148,7 +2148,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sdtd-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sdtd",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sdtd'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sdtd' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2169,7 +2169,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sf",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sf'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sf' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2190,7 +2190,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sfc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sfc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sfc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2211,7 +2211,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2232,7 +2232,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sof2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sof2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sof2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sof2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2253,7 +2253,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sol-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sol",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sol'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sol' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2274,7 +2274,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/squad-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:squad",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/squad'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/squad' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2295,7 +2295,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/st-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:st",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/st'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/st' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2316,7 +2316,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/stn-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:stn",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/stn'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/stn' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2337,7 +2337,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/sven-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:sven",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sven'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/sven' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2358,7 +2358,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/terraria-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:terraria",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/terraria'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/terraria' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2379,7 +2379,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2400,7 +2400,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tf2-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tf2",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf2'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tf2' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2421,7 +2421,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tfc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tfc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tfc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tfc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2442,7 +2442,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ti-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ti",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ti'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ti' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2463,7 +2463,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2484,7 +2484,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ts3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ts3",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts3'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ts3' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2505,7 +2505,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tu-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tu",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tu'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tu' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2526,7 +2526,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/tw-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:tw",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tw'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/tw' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2547,7 +2547,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/unt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:unt",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/unt'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/unt' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2568,7 +2568,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2589,7 +2589,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut2k4-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut2k4",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut2k4'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut2k4' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2610,7 +2610,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut3-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut3",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut3'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut3' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2631,7 +2631,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/ut99-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:ut99",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut99'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/ut99' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2652,7 +2652,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vh-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vh",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vh'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vh' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2673,7 +2673,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vints-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vints",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vints'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vints' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2694,7 +2694,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vpmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vpmc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vpmc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vpmc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2715,7 +2715,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/vs-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:vs",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vs'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/vs' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2736,7 +2736,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wet-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wet",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wet'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wet' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2757,7 +2757,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wf-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wf",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wf'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wf' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2778,7 +2778,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wmc-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wmc",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wmc'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wmc' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2799,7 +2799,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/wurm-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:wurm",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wurm'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/wurm' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2820,7 +2820,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/xnt-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:xnt",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/xnt'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/xnt' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2841,7 +2841,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zmr-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zmr",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zmr'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zmr' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
@@ -2862,7 +2862,7 @@
         "description": " Dockerized game server by LinuxGSM ",
         "logo": "https://github.com/GameServerManagers/LinuxGSM/blob/master/lgsm/data/gameicons/zps-icon.png?raw=true",
         "image": "gameservermanagers/gameserver:zps",
-        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zps'/>here</a>.",
+        "note": "Server config files located <a href='https://github.com/GameServerManagers/Game-Server-Configs/tree/main/zps' target='_blank' rel='noopener noreferrer' />here</a>.",
         "categories": [
             "Game Server"
         ],
